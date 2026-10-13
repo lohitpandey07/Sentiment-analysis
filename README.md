@@ -3,7 +3,7 @@
 An interactive **Streamlit** app that tells you whether a piece of text sounds **positive, negative or neutral**, and shows
 **which words decided it**. Built with scikit-learn (TF-IDF + Logistic Regression).
 
-**Live demo:** _add your Streamlit Cloud link here_
+**Live demo:** sentiment-analysis-dpkrwz8vvyis5b6ofxir3r
 
 ## Features
 - **Example options:** click 😊 Happy, 😞 Angry or 😐 Neutral to fill the box with an example (every click
