@@ -1,0 +1,30 @@
+{
+  "accuracy": 1.0,
+  "f1": 1.0,
+  "confusion": [
+    [
+      69,
+      0,
+      0
+    ],
+    [
+      0,
+      59,
+      0
+    ],
+    [
+      0,
+      0,
+      71
+    ]
+  ],
+  "classes": [
+    "Negative",
+    "Neutral",
+    "Positive"
+  ],
+  "n_train": 796,
+  "n_test": 199,
+  "dataset": "sample_reviews.csv",
+  "synthetic": true
+}
